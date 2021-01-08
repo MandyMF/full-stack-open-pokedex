@@ -48,3 +48,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEFAULT_BUMP: patch
+      - name: Notification success test
+        if: ${{ success() }}
+        run: echo success
+      - name: Notification fail test
+        if: ${{ success() }}
+        run: echo success
