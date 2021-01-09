@@ -17,8 +17,11 @@ Start by running `npm install` inside the project folder
 ## App pokedex
 https://full-stack-open-pokedex-mmf.herokuapp.com/
 
+
 ## Exercise 11.21 repo
 https://github.com/MandyMF/phonebook-app-pipeline.git
 
+
 ## App exercise 11.21
 https://phonebook-app-part-11.herokuapp.com/
+
