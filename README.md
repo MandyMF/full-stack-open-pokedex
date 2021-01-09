@@ -15,4 +15,4 @@ Start by running `npm install` inside the project folder
 `npm run start-prod` to run your production build
 
 ## Exercise 11.21 repo
-https://github.com/MandyMF/phoneboop-app-with-pipeline.git
+https://github.com/MandyMF/phonebook-app-pipeline.git
