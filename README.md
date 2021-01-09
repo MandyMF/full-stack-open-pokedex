@@ -14,8 +14,11 @@ Start by running `npm install` inside the project folder
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
 
+## App pokedex
+https://full-stack-open-pokedex-mmf.herokuapp.com/
+
 ## Exercise 11.21 repo
 https://github.com/MandyMF/phonebook-app-pipeline.git
 
-## App
-https://full-stack-open-pokedex-mmf.herokuapp.com/
+## App exercise 11.21
+https://phonebook-app-part-11.herokuapp.com/
